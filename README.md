@@ -1,0 +1,4 @@
+# Financial-Economics-Project
+
+This project investigates the link between financial news published in the media and stock market performance. We used web scraping and machine learning techniques in Python to gather news texts from major financial news websites such as Economic Times, Money Control, Reuters, The Hindu, Business Line and others, and developed an algorithm using packages like Vader that correctly identifies compound polarity in financial writings. The information gathered is sorted into three categories: positive, negative, and compound feelings. The main goal of this research is to see if we can still utilize these financial news articles to train algorithms to forecast market sentiment and to see how sensitive each major industry is to the news that is released online.
+![image](https://user-images.githubusercontent.com/77675138/160982140-ec6f70b3-ef3f-4825-b8b9-11ac84b01c0f.png)
